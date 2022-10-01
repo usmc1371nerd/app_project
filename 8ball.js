@@ -39,6 +39,6 @@ Math.floor(answers.length));
   });
 };
 
-console.log(answers)
+
 
 
